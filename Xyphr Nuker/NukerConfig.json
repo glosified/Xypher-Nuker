@@ -1,0 +1,7 @@
+{
+	"token": "Bot-Token",
+	"channels": "Channels To Spam",
+	"message": "@everyone Message?",
+	"name": "Name?"
+
+}
